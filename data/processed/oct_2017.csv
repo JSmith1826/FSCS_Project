@@ -1,0 +1,100 @@
+,Timestamp,Trimmer,Name,grams
+0,2017-10-27 00:51:17.860,House,Lemon Puff,45.0
+1,2017-10-27 00:51:52.290,House,Lemon Puff,36.0
+2,2017-10-27 00:52:11.212,Smitty,Lemon Puff,42.0
+3,2017-10-27 00:55:55.562,Smitty,Lemon Puff,21.5
+4,2017-10-27 16:07:25.476,House,Grape Breath,14.5
+5,2017-10-27 16:08:24.735,Smitty,Grape Breath,29.1
+6,2017-10-27 16:13:58.591,Smitty,NYC D,34.0
+7,2017-10-27 21:57:29.709,House,Lemon Butter,13.5
+8,2017-10-27 21:59:23.269,Smitty,Lemon Butter,11.7
+9,2017-10-27 21:59:52.900,Kev,Lemon Butter,5.6
+10,2017-10-28 00:20:16.078,House,Double Budder,7.5
+11,2017-10-28 00:30:59.159,House,Double Budder,2.8
+12,2017-10-28 00:33:04.078,Smitty,Double Budder,8.2
+13,2017-10-29 20:45:15.046,House,Nutter Butter,25.5
+14,2017-10-29 20:45:41.503,House,Nutter butter,4.0
+15,2017-10-29 20:53:02.343,Smitty,Nutter Butter,17.4
+16,2017-10-29 21:08:33.064,T Pain,Nutter Butter,10.0
+17,2017-10-30 13:52:33.290,House,Afgan,32.6
+18,2017-10-30 13:53:14.868,T Pain,Afgan,25.0
+19,2017-10-30 13:58:56.505,Smitty,Afgan,31.0
+20,2017-10-30 14:17:18.158,House,Sophie,15.0
+21,2017-10-30 14:20:11.216,Smitty,Sophie,12.9
+22,2017-10-30 17:01:48.955,Smitty,NYC D,61.5
+23,2017-10-30 17:44:04.899,T Pain,PBB 3,65.5
+24,2017-10-30 19:39:57.329,Smitty,Outdoor,19.0
+25,2017-10-30 21:06:05.673,T Pain,PBB 3,37.0
+26,2017-10-31 15:50:50.123,Smitty,Special CandyLand,7.3
+27,2017-10-31 16:40:23.676,T Pain,Special CandyLand,68.0
+28,2017-10-31 16:42:28.168,Smitty,Special CandyLand,61.0
+29,2017-10-31 20:52:25.782,T Pain,PBB 1,63.0
+30,2017-10-31 21:56:37.069,T Pain,PBB 1,30.5
+31,2017-10-31 22:55:56.970,Smitty,PBB 1,25.5
+32,2017-11-01 13:51:10.199,Smitty,616,56.0
+33,2017-11-01 15:14:48.657,T Pain,PBB 1,74.0
+34,2017-11-01 16:02:05.741,T Pain,PBB 1,17.5
+35,2017-11-01 18:09:04.694,Smitty,PBB 1,103.0
+36,2017-11-01 20:04:34.757,Smitty,PBB 3,14.0
+37,2017-11-01 20:06:59.913,T Pain,PBB 3,55.0
+38,2017-11-01 20:07:43.134,T Pain,PBB 3,41.0
+39,2017-11-01 21:20:11.581,T Pain,Special CandyLand,29.5
+40,2017-11-01 21:49:09.667,Smitty,Special CandyLand,29.9
+41,2017-11-02 18:38:24.687,T Pain,Foam Fire,104.0
+42,2017-11-02 18:40:02.813,Smitty,Foam Fire,60.0
+43,2017-11-02 20:03:06.201,T Pain,Code Blue,44.5
+44,2017-11-02 20:03:28.246,T Pain,Code Blue,27.8
+45,2017-11-02 20:40:32.796,Smitty,Code Blue,67.0
+46,2017-11-02 22:18:49.396,T Pain,Gorilla Glue 4,46.0
+47,2017-11-02 22:37:43.308,Smitty,Gorilla Glue 4,16.5
+48,2017-11-03 13:57:44.575,Smitty,Lucky Charms,72.9
+49,2017-11-05 18:56:26.140,T Pain,Gorilla Glue 4,61.0
+50,2017-11-05 18:56:48.245,T Pain,Gorilla Glue 4,26.5
+51,2017-11-05 18:57:27.749,T Pain,Code Blue,52.5
+52,2017-11-05 18:57:50.385,T Pain,Code Blue,52.0
+53,2017-11-05 18:58:18.850,T Pain,Cookie monster,42.0
+54,2017-11-05 18:58:44.514,T Pain,Grape Breath,45.0
+55,2017-11-05 18:59:39.852,T Pain,Foam Fire,23.0
+56,2017-11-05 19:00:00.083,T Pain,Bug apple butter,25.0
+57,2017-11-09 14:59:15.720,Smitty,Grape B - down,22.0
+58,2017-11-09 15:00:26.182,T Pain,Grape B - down,30.0
+59,2017-11-10 22:11:05.195,T Pain,Grape Breath,89.0
+60,2017-11-10 22:22:24.729,Smitty,Grape Breath,50.0
+61,2017-11-11 14:00:34.929,T Pain,Double butter 3,18.5
+62,2017-11-11 14:01:57.317,Smitty,Double butter 3,11.1
+63,2017-11-11 15:05:03.425,Smitty,Double butter 2,19.6
+64,2017-11-11 15:05:53.270,T Pain,Double butter 2,20.0
+65,2017-11-11 15:46:42.800,T Pain,Double butter 5,26.0
+66,2017-11-11 15:47:04.539,Smitty,Double butter 5,30.0
+67,2017-11-11 16:24:29.212,Smitty,Double butter 1,23.7
+68,2017-11-11 16:25:27.159,T Pain,Double butter 1,33.3
+69,2017-11-12 16:52:48.113,T Pain,Butter Face,52.0
+70,2017-11-12 17:25:53.409,T Pain,Ghee butter 2,20.0
+71,2017-11-12 17:44:09.515,Smitty,Ghee butter 2,19.5
+72,2017-11-12 18:15:00.373,Smitty,Ghee butter 1,17.3
+73,2017-11-12 18:24:47.612,T Pain,Ghee butter 1,27.0
+74,2017-11-14 19:50:28.012,T Pain,Meat the Cookies 5,46.0
+75,2017-11-14 19:50:28.274,T Pain,Meat the Cookies 5,46.0
+76,2017-11-14 20:29:03.248,T Pain,Meat the cookies 1,6.0
+77,2017-11-14 20:29:30.404,Smitty,Meat the cookies 1,30.0
+78,2017-11-14 22:45:29.296,T Pain,Lemon butter 4,40.0
+79,2017-11-15 00:13:17.306,Smitty,Meat the cookies 2,46.9
+80,2017-11-15 00:31:40.350,Smitty,Meat the cookies 2,0.9
+81,2017-11-15 15:08:48.672,Smitty,Lemon butter 3,32.8
+82,2017-11-15 15:10:46.262,Smitty,Lemon butter 2,23.7
+83,2017-11-15 15:12:35.570,Smitty,Big apple butter 2,36.0
+84,2017-11-15 15:17:48.837,T Pain,Filet mignon,63.0
+85,2017-11-15 16:34:41.659,T Pain,Sophie breath,20.5
+86,2017-11-15 16:35:09.689,T Pain,Meat the cookies 3,21.0
+87,2017-11-15 17:13:42.050,Smitty,Lemon butter 1,53.0
+88,2017-11-15 18:05:29.784,T Pain,Meat the cookies 4,24.5
+89,2017-11-15 20:46:32.430,T Pain,Blackberry,65.0
+90,2017-11-15 21:24:31.759,Smitty,Blackberry,38.7
+91,2017-11-15 21:26:00.432,Smitty,Blackberry,39.6
+92,2017-11-25 15:57:58.029,T Pain,Sun tonic,40.0
+93,2017-11-25 15:58:16.973,T Pain,Tonic of life,12.0
+94,2017-11-26 15:35:05.239,Smitty,Dark helmet,5.7
+95,2017-11-26 15:35:26.236,Smitty,Sunshine Tonic,24.5
+96,2017-11-26 15:35:49.530,Smitty,Tonic of Life,15.0
+97,2017-11-26 15:36:11.927,Smitty,Sunshine Tonic,36.0
+98,2017-11-26 21:51:05.501,Smitty,Tonic of life,13.0
